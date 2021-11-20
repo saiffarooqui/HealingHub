@@ -1,5 +1,6 @@
 # HealingHub
-A website addressing mental health.
+A website addressing mental health. This project was developed for '2021 Calgary Youth Hackathon'
+
 
 ## Features:
 Chat: We allow all participants to have a real-time synchronous discussion via the web.
