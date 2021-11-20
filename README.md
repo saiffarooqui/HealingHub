@@ -1,12 +1,12 @@
+#### This project was developed for '2021 Calgary Youth Hackathon'
+
 # HealingHub
 A website addressing mental health.
 
-### This project was developed for '2021 Calgary Youth Hackathon'
-
 ## Features
-Chat: We allow all participants to have a real-time synchronous discussion via the web.
-Blog: We allow all authorized users to read and create blog.
-Support: We provide 24/7 assistance to all authorized users.
+#### Chat: We allow all participants to have a real-time synchronous discussion via the web.
+#### Blog: We allow all authorized users to read and create blog.
+#### Support: We provide 24/7 assistance to all authorized users.
 
 ## Inspiration
 Seeking help is often the first step towards getting and staying well, but it can be hard to know how to start or where to turn to. It's common to feel unsure, and to wonder whether you should try to handle things on your own. But it's always ok to ask for help – even if you're not sure you are experiencing a specific mental health problem. This website HealingHub is built for people to fight their mental illness by talking to a therapist and seeking help. HealingHub also provides blog section to help the users to share about various facts and techniques to heal themselves.
